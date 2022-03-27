@@ -1,5 +1,5 @@
 # PychainLedger
-Building a blockchain using Python code and Streamlit ui
+Building a blockchain using Python code and Streamlit web based ui
 
 ## Summary
 We use python code in conjuntion with streamlit in order to create a blockchain that can be fed via a user-friendly web application. The blockchain is based on endogenous new data classes that are scripted into the back-end code.
