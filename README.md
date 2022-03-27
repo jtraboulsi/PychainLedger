@@ -8,5 +8,5 @@ We use python code in conjuntion with streamlit in order to create a blockchain 
 Streamlit is a python module that turns scripts into shareable and dynamic web apps.
 
 ## Blockchain
-Blockchain is a system of recording information (in our case, monetary transaction) in a way that makes it difficult or impossible to change, hack, or cheat the system.
+Blockchain is a system of recording information (in our case, monetary transactions) in a way that makes it difficult or impossible to change, hack, or cheat the system.
 
