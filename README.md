@@ -19,7 +19,8 @@ Dataclasses    Pandas
 
 ## Interactive user interface display
 
-![streamlit] (https://github.com/jtraboulsi/PychainLedger/blob/main/Images/Pychain_code%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202022-03-29%2000-15-48.mp4)
+https://user-images.githubusercontent.com/93048852/160532658-6fe91ac7-39cb-4608-88a5-9939ec7f16b9.mp4
+
 
 
 
