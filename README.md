@@ -12,3 +12,13 @@ Streamlit is a python module that turns scripts into shareable and interactive w
 ## Blockchain
 Blockchain is a system of recording information (in our case, monetary transactions) in a way that makes it difficult or impossible to change, hack, or cheat the system.
 
+## Technology
+Python 3.9     Hashlib
+Streamlit      Typing
+Dataclasses    Pandas
+
+## Interactive user interface display
+
+
+
+
